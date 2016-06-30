@@ -8,15 +8,15 @@
 
 有些时候`IDE`可以帮助我们节省很多时间，如果你是写`Mac/iOS应用`，那么`Xcode`是你最好的选择，配合 [Alcatraz](https://github.com/alcatraz/Alcatraz) 来管理增强`Xcode`的插件。
 
-![](xcode.png)
+![](image/xcode.png)
 
 如果你是写`Node.js应用`，那么我想 [WebStorm](https://www.jetbrains.com/webstorm/) 会是你的最佳选择，不管是从构建，还是核心模块的智能提示，还是集成来看，它都是开发`Node`程序的最佳选择。
 
-![](webstorm.png)
+![](image/webstorm.png)
 
 如果你是想开发`React Native`，那么你就不得不用`Atom`了。
 
-![](promo-rn-debugging.png)
+![](image/promo-rn-debugging.png)
 
 其实编辑器和IDE的争论由来已久，无聊的时候多看看这些，如果你足够了解想来还是有好处的。在合适的情况下用合适的工具，才是最重要的。
 
@@ -30,7 +30,7 @@
 
 对于网络请求，首推的还是属于 [Postman](http://www.getpostman.com/)，它不仅可以调试简单的HTML,CSS等网页信息，还可以发送几乎所有的网络请求。
 
-![](postman.png)
+![](image/postman.png)
 
 当然DHC也是一款很不错的调试请求的工具：
 
@@ -42,15 +42,15 @@
 
 PinCap 图片资源收集管理工具，帮助设计师和图片收藏家打理自己的本地和云端图库，让你畅游互联网的时候顺便把自己喜欢的图片收藏起来。
 
-![](pinCap.png)
+![](image/pinCap.png)
 
 [Pixelmator](http://www.pixelmator.com/mac/) 是一款Mac平台独有的处理图片的软件，正因为独有相比PS它总能第一时间支持苹果最新的软件和硬件技术。
 
-![](pixelmator.png)
+![](image/pixelmator.png)
 
 Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助设计师快速的导出各种尺寸的图标。设计师通过Prepo把任何格式的图片文件转换成iOS可用的图片格式。
 
-![](prepo.png)
+![](image/prepo.png)
 
 **终端和Alfred**
 
@@ -58,7 +58,7 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 `iTerm`比自带的终端要好用的多：
 
-![](iterm.png)
+![](image/iterm.png)
 
 使用终端的优点在于我们可以摆脱鼠标的操作——这可以让我们更容易集中精力于完成任务。虽是如此，但是这也意味着学习 Linux 会越来越轻松。
 
@@ -66,7 +66,7 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 `Alfred`在一定程度上可以代替你的搜索需求，当然它能达到的功效不仅仅如此。在我看来这是一款非常效率的软件，摸索摸索也许你就会乐在其中。
 
-![](alfred.png)
+![](image/alfred.png)
 
 **文档处理**
 
@@ -74,11 +74,11 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 [Dash](http://kapeli.com/dash) 正是我们所需要的工具：
 
-![](dash.png)
+![](image/dash.png)
 
 而在将来我们有了写作的需求时 `markdown` 语法是我们最好的选择，在Mac上除了`Mou`（不要问我为什么，因为作者烂尾了），最让我满意的还是 [Ulysses](http://www.ulyssesapp.com/) 它提供您所需的一切，从标记到图像和脚注，从链接到评论和代码。它仍完全保持置身事外的样子。使用此应用程序是一种非常美好、专注的体验，它将每天写作的苦差事变得很有趣。
 
-![](ulysses.jpeg)
+![](image/ulysses.jpeg)
 
 对于印象笔记我想就不多做介绍。
 
@@ -88,7 +88,7 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 `Trello` 不仅仅有任务管理的功能，对于开发者而言，如果你使用Github来管理你的源代码，配合上`Trello`可以有很完美的通知排期。
 
-![](trello.png)
+![](image/trello.png)
 
 **Git**
 
@@ -96,7 +96,7 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 当然你也可以使用SourceTree这样的工具：
 
-![](sourceTree.png)
+![](image/sourceTree.png)
 
 
 

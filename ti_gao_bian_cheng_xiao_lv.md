@@ -1,4 +1,4 @@
-# 提高编程效率
+![# 提高编程效率
 
 > 虽然windows很强大，但我推荐Mac。
 
@@ -74,3 +74,4 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 
 
 
+](ulysses.jpeg)![![](trello.png)](ulysses.jpeg)

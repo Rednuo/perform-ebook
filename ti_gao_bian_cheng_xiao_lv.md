@@ -34,7 +34,7 @@
 
 当然DHC也是一款很不错的调试请求的工具：
 
-![](dhc.png)
+![](image/dhc.png)
 
 **图片处理和灵感收集**
 
@@ -97,3 +97,6 @@ Prepo基于Mac和iOS的一款免费且方便的图标转化器,它可以帮助�
 当然你也可以使用SourceTree这样的工具：
 
 ![](sourceTree.png)
+
+
+

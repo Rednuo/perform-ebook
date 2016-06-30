@@ -30,8 +30,8 @@
 
 - [基础知识](https://icepy.gitbooks.io/perform-ebook/content/ji_chu_zhi_shi.html)
 	- [提高编程效率](https://icepy.gitbooks.io/perform-ebook/content/ti_gao_bian_cheng_xiao_lv.html)
-	- [Mac 平台的开发环境配置]()
-	- [Mac 平台的优秀App]()
+	- [Mac 平台的开发环境配置](https://icepy.gitbooks.io/perform-ebook/content/macpingtai_de_kai_fa_huan_jing_pei_zhi_md.html)
+	- [Mac 平台好用的APP]()
 	- [语言的魅力]()
 	- [如何编写文档和博客]()
 	- [HTML/CSS]()
